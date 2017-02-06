@@ -10,7 +10,9 @@ Edit Tool : IDLE
 Executable programs servers: py2exe
 
 About py2exe reference:
-           py2exe-0.6.9.win32-py2.7:  http://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/py2exe-0.6.9.win32-py2.7.exe/download?use_mirror=nchc&download=
-           Option: http://www.py2exe.org/index.cgi/ListOfOptions
+
+   py2exe-0.6.9.win32-py2.7:  http://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/py2exe-0.6.9.win32-py2.7.exe/download?use_mirror=nchc&download=
+   
+   Option: http://www.py2exe.org/index.cgi/ListOfOptions
            
            
